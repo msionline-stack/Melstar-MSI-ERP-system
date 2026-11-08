@@ -1,0 +1,6 @@
+{
+  "name": "Melstar School ERP - Fees, Feeding & Attendance",
+  "description": "Comprehensive School Management ERP for Melstar Children Training Centre, New Gbawe, Ghana. Manages student enrollment, daily & weekly feeding fee collections, class fees, attendance, feeding operations & expenses, receipts, and Google Sheets integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
